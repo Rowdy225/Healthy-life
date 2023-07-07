@@ -1,0 +1,226 @@
+<! DOCTYPE html>
+
+
+
+<html>
+
+
+
+<title>HEALTH AND HYGIENE</title>
+
+<body>
+
+
+
+  <ul>
+
+
+
+        <li><a href ="#">HOME</a></li>
+
+        <li><a href ="https://rowdy225.github.io/health-and-hygiene/">CONTENT</a></li>
+
+</ul>
+
+<div class="title">
+
+   <h1>HEALTH AND HYGIENE</h1><br>
+
+   <h3>HEALTHY LIVING STARTS WITH GOOD HYGIENE</h3>
+
+</div>
+
+</body>
+
+
+
+</html>
+
+<style>
+
+*{
+
+    margin:10;
+
+    padding:10;
+
+}
+
+<! DOCTYPE html>
+
+
+
+<html>
+
+
+
+<title>HEALTH AND HYGIENE</title>
+
+<body>
+
+
+
+  <ul>
+
+
+
+        <li><a href ="#">HOME</a></li>
+
+        <li><a href ="https://rowdy225.github.io/health-and-hygiene/">CONTENT</a></li>
+
+</ul>
+
+<div class="title">
+
+   <h1>HEALTH AND HYGIENE</h1><br>
+
+   <h3>HEALTHY LIVING STARTS WITH GOOD HYGIENE</h3>
+
+</div>
+
+</body>
+
+
+
+</html>
+
+<style>
+
+*{
+
+    margin:10;
+
+    padding:10;
+
+}
+
+body{
+
+background-color: aqua;
+
+}
+
+ul{
+
+    list-style-type:none;
+
+   overflow:hidden;
+
+    background-color:none;
+
+    position:fixed;
+
+    
+
+  }
+
+  li a{
+
+      text-decoration:none;
+
+      display:block;
+
+      text-align:center;
+
+      color:red;
+
+text-decoration:none;
+
+  }  
+
+    
+
+   li a:hover{
+
+       background-color:green;
+
+       color:white;}
+
+    li{
+
+       float:left;
+
+      
+
+   } 
+
+  .title{
+
+      position: absolute;
+
+      top:47%;
+
+      left:50%;
+
+      transform:translate(-50%,-50%);
+
+  } 
+
+  .title h1{
+
+      color:blue;
+
+      font size:70px;
+
+  }
+
+  .title h3{
+
+    color:black;
+
+font size:40px;
+
+  }
+
+￼Enterbody{
+
+background-color: aqua;
+
+}
+
+ul{
+
+    list-style-type:none;
+
+   overflow:hidden;
+
+    background-color:none;
+
+    position:fixed;
+
+    
+
+  }
+
+  li a{
+
+      text-decoration:none;
+
+      display:block;
+
+text-align:center;
+
+      color:red;
+
+text-decoration:none;
+
+  }  
+
+    
+
+   li a:hover{
+
+       background-color:green;
+
+       color:white;}
+
+    li{
+
+       float:left;
+
+      
+
+   } 
+
+  .title{
+
